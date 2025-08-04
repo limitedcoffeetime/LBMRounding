@@ -1,6 +1,9 @@
+The following is an excerpt from Moritz Lehman's paper, it can be found here [here](https://arxiv.org/pdf/2112.08926).
+
+
 ### 2.2 DDF-shifting
 
-To achieve maximum accuracy, it is essential not to work with the density distribution functions (DDFs) \( f_i \) directly, but with shifted \( f_i^{\text{shifted}} := f_i - w_i \) instead [50, 57, 61, 83, 89].  
+To achieve maximum accuracy, it is essential not to work with the density distribution functions (DDFs) \( f_i \) directly, but with shifted \( f_i^{\text{shifted}} := f_i - w_i \) instead [50, 57, 61, 83, 89].
 \( w_i = f_i^{\text{eq}}(\rho = 1, \vec{u} = 0) \) are the lattice weights and \( \rho \) and \( \vec{u} \) are the local fluid density and velocity. This requires a small change in the equilibrium DDF computation:
 
 \[
