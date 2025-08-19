@@ -1,15 +1,5 @@
+The following blog post was written by my advisor Ryley McConkey. You can find the original post [here](https://ryleymcconkey.com/2025/07/stochastic_rounding_lbm/).
 ---
-layout: post
-title: Exploring stochastic rounding for the lattice Boltzmann method
-date: 2025-07-29 15:00:00-0500
-description:
-tags: computational-fluid-dynamics lattice-boltzmann stochastic-rounding
-toc:
-  sidebar: left
-background: '#FFFFFF'
-color: black
----
-
 *Note: this was an undergraduate research project that I supervised. The implementation for this project was completed by [David De Le Torre](https://www.linkedin.com/in/david-delatorre/), an undergraduate researcher at MIT. This post aims to both showcase David's awesome work, and provide utility to the LBM community.*
 
 ## Introduction
