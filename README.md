@@ -4,9 +4,9 @@
 > my research advisor. I’ve copied it here so the write-up is visible in this repository.
 > The implementation described was my undergraduate research contribution.
 
+*Original blog post follows below (copied with permission).*
 ---
 
-*Original blog post follows below (copied with permission).*
 
 *Note: this was an undergraduate research project that I supervised. The implementation for this project was completed by [David De Le Torre](https://www.linkedin.com/in/david-delatorre/), an undergraduate researcher at MIT. This post aims to both showcase David's awesome work, and provide utility to the LBM community.*
 
