@@ -5,7 +5,6 @@
 > The implementation described was my undergraduate research contribution.
 >
 > You can find the original blog post here: [Exploring stochastic rounding for the lattice Boltzmann method](https://ryleymcconkey.com/2025/07/stochastic_rounding_lbm/).
-
 > *Original blog post follows below (copied with permission).*
 ---
 *Note: this was an undergraduate research project that I supervised. The implementation for this project was completed by [David De Le Torre](https://www.linkedin.com/in/david-delatorre/), an undergraduate researcher at MIT. This post aims to both showcase David's awesome work, and provide utility to the LBM community.*
